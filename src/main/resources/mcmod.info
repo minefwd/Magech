@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magech",
+  "name": "Magech",
+  "description": "Magech is a new mod which is a hybrid of a Magic Mod and Tech Mod. That creates the super creative name 'Magech'",
+  "version": "0.01",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MineFwd"],
+  "credits": "MineFwd for coding and texturing the mod. :*",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

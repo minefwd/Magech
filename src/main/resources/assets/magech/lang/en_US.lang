@@ -1,0 +1,9 @@
+item.magech:magechsword.name=Magech Sword
+
+tile.magech:altar.name=Altar
+tile.magech:vat.name=Vat
+
+tileentity.magech:tileentityaltar.name=Altar
+tileneitty.magech:tileentityvat.name=Vat
+
+itemGroup.magech=Magech
